@@ -1,10 +1,10 @@
-## Hola, I'm [Hassam Talha!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 👋
+## Hola, I'm Hassam Talha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 # 💫About Me :
 🔭 I’m currently working on Flutter.
-
+🔥 Co-Manager @ [Flutter Islamabad][flutter_isb]
+🙋‍♂️ Former Google DSC Technical Lead [COMSATS Islamabad][dsccui]
 🌱 I’m currently learning more about BlockChain and advanced BloC Architecture.
 👯 I’m looking to collaborate on Flutter projects.
 💬 Ask me about Flutter or any tech-related stuff.
@@ -24,3 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hassamtalha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
+[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
