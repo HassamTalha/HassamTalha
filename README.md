@@ -1,5 +1,6 @@
 # 💫About Me :
-🔭 I’m currently working on Flutter.\n
+🔭 I’m currently working on Flutter.
+
 🌱 I’m currently learning more about BlockChain and advanced BloC Architecture.
 👯 I’m looking to collaborate on Flutter projects.
 💬 Ask me about Flutter or any tech-related stuff.
