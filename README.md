@@ -22,7 +22,7 @@
 
 <br />
 
-## Professional Profile
+## Profile
 I am a Senior Mobile Engineer with over **8 years of experience** transitioning from complex backend logic to intuitive UI design. I currently lead development at **Dexplat**, delivering full-stack solutions for enterprise clients.
 
 My academic background includes a **Masters in Cyber Security** (*Charles Darwin University*) and a BS in Computer Science (*COMSATS Islamabad*), giving me a unique edge in building compliant, encrypted, and secure applications.
