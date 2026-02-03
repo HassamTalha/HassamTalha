@@ -66,9 +66,3 @@ My academic background includes a **Masters in Cyber Security** (*Charles Darwin
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 <br />
-
-## GitHub Activity
-
-![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassamtalha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-<br/>
-![Hassam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamtalha&layout=compact&theme=radical&hide_border=true)
