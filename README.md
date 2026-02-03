@@ -1,79 +1,74 @@
 <div align="center">
-  <h1>Hi, I'm Hassam Talha</h1>
-  <h3>Senior Flutter Engineer | Cyber Security & IoMT Researcher</h3>
+  <h1>Hassam Talha</h1>
+  <h3>Senior Flutter Engineer | Cyber Security & IoMT Specialist</h3>
+  <p>
+    <b>Founder & Lead Engineer @ Dexplat</b>
+    <br/>
+    Bridging the gap between scalable mobile architectures, rigorous security, and decentralized systems.
+  </p>
   
   <p>
-    <b>8+ Years of Experience</b> creating scalable mobile architectures.
-    <br/>
-    Specializing in secure, compliant, and encrypted cross-platform ecosystems.
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/hassamtalha" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://linkedin.com/in/hassamtalha">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:hassamtalha73@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://behance.net/hassamtalha" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
+    <a href="https://behance.net/hassamtalha">
+      <img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
     </a>
   </p>
 </div>
 
----
+<br />
 
-### 👨‍💻 Professional Summary
+## Professional Profile
+I am a Senior Mobile Engineer with over **8 years of experience** transitioning from complex backend logic to intuitive UI design. I currently lead development at **Dexplat**, delivering full-stack solutions for enterprise clients.
 
-I am a **Senior Mobile Engineer** with a strong foundation in **Cyber Security**. With a career starting in 2018, I have transitioned from building simple applications to architecting complex, secure systems for enterprise and startups.
+My academic background includes a **Masters in Cyber Security** (*Charles Darwin University*) and a BS in Computer Science (*COMSATS Islamabad*), giving me a unique edge in building compliant, encrypted, and secure applications.
 
-I hold a **Masters in Cyber Security** from *Charles Darwin University* and a BS in Computer Science from *COMSATS Islamabad*. My work bridges the gap between user-centric mobile experiences and rigorous backend security.
+* **Core Focus:** Advanced BLoC Architecture, Secure IoMT (Internet of Medical Things), and Decentralized Storage.
+* **Research:** My thesis focused on **Remote Patient Monitoring** using Raspberry Pi, IOTA Tangle, and Proxy Re-Encryption to meet Australian health data regulations.
 
-* 🔭 **Founder & Lead Engineer @ Dexplat:** Leading development teams to deliver full-stack software solutions.
-* 🔐 **Research Focus:** Secure IoMT (Internet of Medical Things), Blockchain (IOTA Tangle), and Decentralized Storage.
-* 🤝 **Community:** Former Tech Lead @ Google DSC & Co-Manager @ [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan).
+<br />
 
----
+## Technical Expertise
 
-### 🔬 Specialized Research & Architecture
-
-My Masters thesis focused on building a secure, compliant framework for **Remote Patient Monitoring in IoMT**, specifically tailored for Australian data regulations.
-
-**The Stack:**
-* **Architecture:** Integration of Mobile (Flutter) with IoT Edge Devices (Raspberry Pi).
-* **Security:** AES & ECC Encryption with Proxy Re-Encryption for access control.
-* **Decentralization:** Leveraging **IOTA Tangle** for immutable record keeping and **IPFS** for distributed storage.
-
----
-
-### 🛠 Technical Arsenal
-
-**Mobile & Core**
+**Mobile & Core Engineering**
 <br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 **Security, IoT & Blockchain**
 <br>
-<img src="https://img.shields.io/badge/IOTA_Tangle-131F37?style=for-the-badge&logo=iota&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/IOTA_Tangle-131F37?style=flat-square&logo=iota&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Cyber_Security-000000?style=flat-square&logo=security&logoColor=white" />
 
-**Backend & Infrastructure**
+**Web & Backend Infrastructure**
 <br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
----
+**Database & Tools**
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
-### 📊 GitHub Metrics
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassamtalha&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassamtalha&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
+## GitHub Activity
+
+![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassamtalha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+<br/>
+![Hassam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassamtalha&layout=compact&theme=radical&hide_border=true)
